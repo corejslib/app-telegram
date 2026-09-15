@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.3 (2026-09-15)
+
+**Bug fixes:**
+
+- \[PATCH] fix: remove bot user link trigger from migration (● [20f7b06](https://github.com/corejslib/app-telegram/commit/20f7b06); 👬 zdm)
+
+Compare with the previous release: [v1.0.2...v1.0.3](https://github.com/corejslib/app-telegram/compare/v1.0.2...v1.0.3)
+
 ### v1.0.2 (2026-09-15)
 
 **Bug fixes:**
