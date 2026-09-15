@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.2 (2026-09-15)
+
+**Bug fixes:**
+
+- \[PATCH] fix: send updated bot user payload in trigger notifications (● [3083f06](https://github.com/corejslib/app-telegram/commit/3083f06); 👬 zdm)
+
+    Bump the Telegram DB patch version and add the SQL migration for the bot-user after-update trigger so notifications publish the modified JSON payload (`v_data`) instead of the stale `data` value.
+
+Compare with the previous release: [v1.0.1...v1.0.2](https://github.com/corejslib/app-telegram/compare/v1.0.1...v1.0.2)
+
 ### v1.0.1 (2026-09-15)
 
 **Other changes:**
