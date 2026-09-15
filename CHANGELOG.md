@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.4 (2026-09-15)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use getStream for Telegram file downloads (● [f148a2d](https://github.com/corejslib/app-telegram/commit/f148a2d); 👬 zdm)
+
+Compare with the previous release: [v1.0.3...v1.0.4](https://github.com/corejslib/app-telegram/compare/v1.0.3...v1.0.4)
+
 ### v1.0.3 (2026-09-15)
 
 **Bug fixes:**
