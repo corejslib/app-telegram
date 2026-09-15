@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/app-telegram",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Telegram application component",
     "keywords": [
         "telegram"
