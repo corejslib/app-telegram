@@ -1,0 +1,4 @@
+forumChat:
+  clientId: ~
+  deleteGroupCreator: true
+  hideGeneralTopic: true
