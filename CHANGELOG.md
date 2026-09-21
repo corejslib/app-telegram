@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.5 (2026-09-21)
+
+**Other changes:**
+
+- style: fix Russian locale strings (● [76e2f4e](https://github.com/corejslib/app-telegram/commit/76e2f4e); 👬 zdm)
+
+Compare with the previous release: [v1.0.4...v1.0.5](https://github.com/corejslib/app-telegram/compare/v1.0.4...v1.0.5)
+
 ### v1.0.4 (2026-09-15)
 
 **Bug fixes:**
