@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.6 (2026-09-21)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use named msgpack imports in telegram (● [ae837f0](https://github.com/corejslib/app-telegram/commit/ae837f0); 👬 zdm)
+
+Compare with the previous release: [v1.0.5...v1.0.6](https://github.com/corejslib/app-telegram/compare/v1.0.5...v1.0.6)
+
 ### v1.0.5 (2026-09-21)
 
 **Other changes:**
