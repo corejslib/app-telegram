@@ -61,14 +61,14 @@ msgid ""
 "Bot's statistics (${n}):\n"
 "\n"
 "Total users: <b>${n}</b>\n"
-"Subsctibed users: <b>${n}</b>\n"
-"Unsubsctibed users: <b>${n}</b>\n"
+"Subscribed users: <b>${n}</b>\n"
+"Unsubscribed users: <b>${n}</b>\n"
 msgstr ""
 "Статистика бота (${n}):\n"
 "\n"
 "Загальна кількість користувачів: <b>${n}</b>\n"
-"Підписані користувачі: <b>${n}</b>\n"
-"Користувачі, які скасували підписку: <b>${n}</b>\n"
+"Підписаних користувачів: <b>${n}</b>\n"
+"Відписаних користувачів: <b>${n}</b>\n"
 
 #: ../../lib/components/telegram/component.js:20:43
 msgid "Can create Telegram bots"
@@ -275,25 +275,25 @@ msgid ""
 "\n"
 "<b>You can use following syntax to format text:</b>\n"
 "**bold text**: <b>bold text</b>\n"
-"__italic text__: <i>talic text</i>\n"
+"__italic text__: <i>italic text</i>\n"
 "~~strikethrough text~~: <s>strikethrough text</s>\n"
 "||text under spoiler||: <span class=\"tg-spoiler\">text under spoiler</span>"
 msgstr ""
-"Надішліть мені текст, щоб додати його до повідомлення.\n"
+"Надішліть текст, який потрібно додати до повідомлення.\n"
 "\n"
-"<b>Для форматування тексту можна використовувати такий синтаксис:</b>\n"
+"<b>Ви можете використовувати такий синтаксис для форматування тексту:</b>\n"
 "**жирний текст**: <b>жирний текст</b>\n"
-"__курсив__: <i>курсив</i>\n"
+"__курсивний текст__: <i>курсивний текст</i>\n"
 "~~закреслений текст~~: <s>закреслений текст</s>\n"
 "||текст під спойлером||: <span class=\"tg-spoiler\">текст під спойлером</span>"
 
 #: ../../lib/components/telegram/bot/commands/edit-message.js:220:25
 msgid ""
-"Send me medfia files (photos, videos, audios, documents) to add to the message.\n"
-"Photos / videos, audios and documents can be grouped to the album. up to 10 files in the album."
+"Send me media files (photos, videos, audios, documents) to add to the message.\n"
+"Photos / videos, audios and documents can be grouped to the album. Up to 10 files in the album."
 msgstr ""
-"Надсилайте мені файли медіа (фото, відео, аудіо, документи), щоб додати їх до повідомлення.\n"
-"Фотографії/відео, аудіо та документи можна згрупувати в альбом. до 10 файлів в альбомі."
+"Надішліть медіафайли (фотографії, відео, аудіо, документи), які потрібно додати до повідомлення.\n"
+"Фотографії/відео, аудіо та документи можна згрупувати в альбом. До 10 файлів в альбомі."
 
 #: ../../lib/components/telegram-bot-external-chat/bot/commands/setup-external-chat.js:23:28
 msgid "Send me new link to the chat."
@@ -305,7 +305,7 @@ msgstr "Надішліть мені свою адресу"
 
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:358:24
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:8:19
-msgid "Send me your emaul address"
+msgid "Send me your email address"
 msgstr "Надішліть мені свою електронну адресу"
 
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:247:48
@@ -331,8 +331,8 @@ msgstr "Вийти"
 
 #: ../../lib/components/telegram-bot-forum-chat/bot/forum-chat.js:338:37
 #: ../../lib/components/telegram/bot/commands/settings/locale.js:28:36
-msgid "Some error occured. Please, try again."
-msgstr "Сталася якась помилка. Будь ласка, спробуйте ще раз."
+msgid "Some error occurred. Please, try again."
+msgstr "Сталася помилка. Будь ласка, спробуйте ще раз."
 
 #: ../../lib/components/telegram/component.js:19:36
 msgid "Telegram bot creator"
@@ -352,19 +352,19 @@ msgstr "Це бот для сповіщень. Він не підтримує ж
 
 #: ../../lib/components/telegram/bot/commands/settings/account.js:215:24
 msgid ""
-"To complete sign in, please, click on link which I just sent to your email address.\n"
-"If you didn't received emaul in several minutes you can send it again."
+"To complete sign in, please, click the link I just sent to your email address.\n"
+"If you didn't receive email in several minutes, you can send it again."
 msgstr ""
-"Щоб завершити вхід, натисніть посилання, яке я щойно надіслав на вашу електронну адресу.\n"
-"Якщо ви не отримали лист протягом кількох хвилин, ви можете надіслати його ще раз."
+"Щоб завершити вхід, натисніть посилання, яке я щойно надіслав на вашу адресу електронної пошти.\n"
+"Якщо ви не отримали електронного листа за кілька хвилин, ви можете надіслати його ще раз."
 
 #: ../../lib/components/telegram-bot-forum-chat/bot/forum-chat.js:368:24
 msgid "To reply, please, go to the chat."
 msgstr "Щоб відповісти, будь ласка, зайдіть в чат."
 
 #: ../../lib/components/telegram/bot/commands/settings/account.js:207:24
-msgid "To sign in, please, enter yoour email address"
-msgstr "Щоб увійти, будь ласка, введіть свою електронну адресу"
+msgid "To sign in, please, enter your email address"
+msgstr "Щоб увійти, введіть свою адресу електронної пошти"
 
 #: ../../lib/components/telegram-bot-external-chat/bot/commands/external-chat.js:32:24
 msgid "To write me a message, please, go to the chat."

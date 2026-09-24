@@ -61,8 +61,8 @@ msgid ""
 "Bot's statistics (${n}):\n"
 "\n"
 "Total users: <b>${n}</b>\n"
-"Subsctibed users: <b>${n}</b>\n"
-"Unsubsctibed users: <b>${n}</b>\n"
+"Subscribed users: <b>${n}</b>\n"
+"Unsubscribed users: <b>${n}</b>\n"
 msgstr ""
 "Статистика бота (${n}):\n"
 "\n"
@@ -275,7 +275,7 @@ msgid ""
 "\n"
 "<b>You can use following syntax to format text:</b>\n"
 "**bold text**: <b>bold text</b>\n"
-"__italic text__: <i>talic text</i>\n"
+"__italic text__: <i>italic text</i>\n"
 "~~strikethrough text~~: <s>strikethrough text</s>\n"
 "||text under spoiler||: <span class=\"tg-spoiler\">text under spoiler</span>"
 msgstr ""
@@ -289,8 +289,8 @@ msgstr ""
 
 #: ../../lib/components/telegram/bot/commands/edit-message.js:220:25
 msgid ""
-"Send me medfia files (photos, videos, audios, documents) to add to the message.\n"
-"Photos / videos, audios and documents can be grouped to the album. up to 10 files in the album."
+"Send me media files (photos, videos, audios, documents) to add to the message.\n"
+"Photos / videos, audios and documents can be grouped to the album. Up to 10 files in the album."
 msgstr ""
 "Отправьте мне медиафайлы (фотографии, видео, аудио, документы), чтобы добавить их к сообщению.\n"
 "Фотографии/видео, аудио и документы можно группировать в альбом. до 10 файлов в альбоме."
@@ -305,7 +305,7 @@ msgstr "Отправьте мне свой адрес"
 
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:358:24
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:8:19
-msgid "Send me your emaul address"
+msgid "Send me your email address"
 msgstr "Отправьте мне свой адрес электронной почты"
 
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:247:48
@@ -331,7 +331,7 @@ msgstr "Выйти"
 
 #: ../../lib/components/telegram-bot-forum-chat/bot/forum-chat.js:338:37
 #: ../../lib/components/telegram/bot/commands/settings/locale.js:28:36
-msgid "Some error occured. Please, try again."
+msgid "Some error occurred. Please, try again."
 msgstr "Произошла какая-то ошибка. Пожалуйста, попробуйте еще раз."
 
 #: ../../lib/components/telegram/component.js:19:36
@@ -352,8 +352,8 @@ msgstr "Это бот уведомлений. Он не поддерживает
 
 #: ../../lib/components/telegram/bot/commands/settings/account.js:215:24
 msgid ""
-"To complete sign in, please, click on link which I just sent to your email address.\n"
-"If you didn't received emaul in several minutes you can send it again."
+"To complete sign in, please, click the link I just sent to your email address.\n"
+"If you didn't receive email in several minutes, you can send it again."
 msgstr ""
 "Чтобы завершить вход, пожалуйста, нажмите на ссылку, которую я только что отправил на ваш адрес электронной почты.\n"
 "Если вы не получили электронное письмо в течение нескольких минут, вы можете отправить его еще раз."
@@ -363,7 +363,7 @@ msgid "To reply, please, go to the chat."
 msgstr "Чтобы ответить, пожалуйста, зайдите в чат."
 
 #: ../../lib/components/telegram/bot/commands/settings/account.js:207:24
-msgid "To sign in, please, enter yoour email address"
+msgid "To sign in, please, enter your email address"
 msgstr "Для входа, пожалуйста, введите свой адрес электронной почты"
 
 #: ../../lib/components/telegram-bot-external-chat/bot/commands/external-chat.js:32:24
@@ -416,3 +416,7 @@ msgstr "ваши настройки"
 #: ../../lib/components/telegram/bot/commands/settings.js:18:19
 msgid "Your settings"
 msgstr "Ваши настройки"
+
+#: ../../lib/components/telegram/bot/commands/settings/locale.js:28:36
+#~ msgid "Some error occured. Please, try again."
+#~ msgstr "Произошла какая-то ошибка. Пожалуйста, попробуйте еще раз."
