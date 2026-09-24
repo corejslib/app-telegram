@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.7 (2026-09-24)
+
+**Other changes:**
+
+- build: update translations (● [54ab78a](https://github.com/corejslib/app-telegram/commit/54ab78a), [ca41f2d](https://github.com/corejslib/app-telegram/commit/ca41f2d); 👬 zdm)
+
+Compare with the previous release: [v1.0.6...v1.0.7](https://github.com/corejslib/app-telegram/compare/v1.0.6...v1.0.7)
+
 ### v1.0.6 (2026-09-21)
 
 **Code refactoring:**
