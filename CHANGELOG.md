@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.8 (2026-09-27)
+
+**Other changes:**
+
+- chore: remove .pot (● [15ed4e8](https://github.com/corejslib/app-telegram/commit/15ed4e8); 👬 zdm)
+
+Compare with the previous release: [v1.0.7...v1.0.8](https://github.com/corejslib/app-telegram/compare/v1.0.7...v1.0.8)
+
 ### v1.0.7 (2026-09-24)
 
 **Other changes:**
