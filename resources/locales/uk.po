@@ -222,7 +222,7 @@ msgstr "Телефон"
 msgid "Please, choose what you want to do"
 msgstr "Виберіть, будь ласка, що ви хочете зробити"
 
-#: ../../lib/components/telegram/config.yaml:1:39
+#: ../../lib/components/telegram/config.yaml:1:40
 #, javascript-format
 msgid ""
 "Please, click following link to sign in to \"${n}\" Telegram bot:\n"
@@ -320,7 +320,7 @@ msgstr "Налаштувати телефон"
 msgid "Show on the map"
 msgstr "Показати на карті"
 
-#: ../../lib/components/telegram/config.yaml:1:39
+#: ../../lib/components/telegram/config.yaml:1:40
 #, javascript-format
 msgid "Sign in to \"${n}\" bot"
 msgstr "Увійдіть до бота \"${n}\""
