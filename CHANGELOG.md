@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.9 (2026-09-27)
+
+**Other changes:**
+
+- Revert "chore: remove .pot" (● [76a584b](https://github.com/corejslib/app-telegram/commit/76a584b); 👬 zdm)
+
+    This reverts commit [15ed4e8](https://github.com/corejslib/app-telegram/commit/15ed4e8b76bcc2146538c31bc9e37c9cf65918ed).
+
+Compare with the previous release: [v1.0.8...v1.0.9](https://github.com/corejslib/app-telegram/compare/v1.0.8...v1.0.9)
+
 ### v1.0.8 (2026-09-27)
 
 **Other changes:**
