@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.10 (2026-09-27)
+
+**Bug fixes:**
+
+- \[PATCH] fix: correct Russian "Cancel" translation (● [dc77e82](https://github.com/corejslib/app-telegram/commit/dc77e82); 👬 zdm)
+
+**Other changes:**
+
+- chore: update Telegram locale source references (● [dc3e9ed](https://github.com/corejslib/app-telegram/commit/dc3e9ed); 👬 zdm)
+
+Compare with the previous release: [v1.0.9...v1.0.10](https://github.com/corejslib/app-telegram/compare/v1.0.9...v1.0.10)
+
 ### v1.0.9 (2026-09-27)
 
 **Other changes:**
