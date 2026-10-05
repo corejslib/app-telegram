@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.11 (2026-10-05)
+
+**Bug fixes:**
+
+- \[PATCH] fix: stop processing when database connection wait fails (● [83b2491](https://github.com/corejslib/app-telegram/commit/83b2491); 👬 zdm)
+
+Compare with the previous release: [v1.0.10...v1.0.11](https://github.com/corejslib/app-telegram/compare/v1.0.10...v1.0.11)
+
 ### v1.0.10 (2026-09-27)
 
 **Bug fixes:**
