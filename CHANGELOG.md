@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.12 (2026-10-06)
+
+**Other changes:**
+
+- chore: update .pot template (● [d23f687](https://github.com/corejslib/app-telegram/commit/d23f687); 👬 zdm)
+
+- chore: update translations (● [d2c935a](https://github.com/corejslib/app-telegram/commit/d2c935a); 👬 zdm)
+
+Compare with the previous release: [v1.0.11...v1.0.12](https://github.com/corejslib/app-telegram/compare/v1.0.11...v1.0.12)
+
 ### v1.0.11 (2026-10-05)
 
 **Bug fixes:**
