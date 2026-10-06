@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Language: ru\n"
+"PO-Revision-Date: 2026-10-06T23:10:48.433Z\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Search-Path: /lib/**\n"
 
@@ -229,7 +230,7 @@ msgid ""
 "\n"
 "${n}\n"
 msgstr ""
-"Пожалуйста, нажмите следующую ссылку, чтобы войти в Telegram-бот «${n}»:\n"
+"Пожалуйста, нажмите следующую ссылку, чтобы войти в Telegram-бот \"${n}\":\n"
 "\n"
 "${n}\n"
 
@@ -293,7 +294,7 @@ msgid ""
 "Photos / videos, audios and documents can be grouped to the album. Up to 10 files in the album."
 msgstr ""
 "Отправьте мне медиафайлы (фотографии, видео, аудио, документы), чтобы добавить их к сообщению.\n"
-"Фотографии/видео, аудио и документы можно группировать в альбом. до 10 файлов в альбоме."
+"Фотографии / видео, аудио и документы можно группировать в альбом. До 10 файлов в альбоме."
 
 #: ../../lib/components/telegram-bot-external-chat/bot/commands/setup-external-chat.js:23:28
 msgid "Send me new link to the chat."
@@ -416,7 +417,3 @@ msgstr "ваши настройки"
 #: ../../lib/components/telegram/bot/commands/settings.js:18:19
 msgid "Your settings"
 msgstr "Ваши настройки"
-
-#: ../../lib/components/telegram/bot/commands/settings/locale.js:28:36
-#~ msgid "Some error occured. Please, try again."
-#~ msgstr "Произошла какая-то ошибка. Пожалуйста, попробуйте еще раз."

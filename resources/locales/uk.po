@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Language: uk\n"
+"PO-Revision-Date: 2026-10-06T23:10:48.441Z\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Search-Path: /lib/**\n"
 
@@ -243,11 +244,11 @@ msgstr "Натисніть кнопку, коли закінчите редаг�
 
 #: ../../lib/components/telegram-support-bot/config.yaml
 msgid "Project support bot"
-msgstr "Бот підтримки проекту"
+msgstr "Бот підтримки проєкту"
 
 #: ../../lib/components/telegram-support-bot/config.yaml
 msgid "Project support bot. For internal use only."
-msgstr "Бот підтримки проекту. Тільки для внутрішнього використання."
+msgstr "Бот підтримки проєкту. Тільки для внутрішнього використання."
 
 #: ../../lib/components/telegram-support-bot/config.yaml
 msgid "Read-only"
@@ -293,7 +294,7 @@ msgid ""
 "Photos / videos, audios and documents can be grouped to the album. Up to 10 files in the album."
 msgstr ""
 "Надішліть медіафайли (фотографії, відео, аудіо, документи), які потрібно додати до повідомлення.\n"
-"Фотографії/відео, аудіо та документи можна згрупувати в альбом. До 10 файлів в альбомі."
+"Фотографії / відео, аудіо та документи можна згрупувати в альбом. До 10 файлів в альбомі."
 
 #: ../../lib/components/telegram-bot-external-chat/bot/commands/setup-external-chat.js:23:28
 msgid "Send me new link to the chat."
@@ -310,11 +311,11 @@ msgstr "Надішліть мені свою електронну адресу"
 
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:247:48
 msgid "Set email"
-msgstr "Налаштувати електронну адресу"
+msgstr "Вказати адресу електронної пошти"
 
 #: ../../lib/components/telegram/bot/commands/edit-contact.js:207:48
 msgid "Set phone"
-msgstr "Налаштувати телефон"
+msgstr "Вказати номер телефону"
 
 #: ../../lib/components/telegram/bot/contact.js:204:24
 msgid "Show on the map"
