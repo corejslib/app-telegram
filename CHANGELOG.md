@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.13 (2026-10-07)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix activity controller callbacks (● [a4f927a](https://github.com/corejslib/app-telegram/commit/a4f927a); 👬 zdm)
+
+**Other changes:**
+
+- style: lint (● [3ff750c](https://github.com/corejslib/app-telegram/commit/3ff750c); 👬 zdm)
+
+Compare with the previous release: [v1.0.12...v1.0.13](https://github.com/corejslib/app-telegram/compare/v1.0.12...v1.0.13)
+
 ### v1.0.12 (2026-10-06)
 
 **Other changes:**
