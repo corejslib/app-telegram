@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.14 (2026-10-09)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor msgpack (● [8241e65](https://github.com/corejslib/app-telegram/commit/8241e65); 👬 zdm)
+
+Compare with the previous release: [v1.0.13...v1.0.14](https://github.com/corejslib/app-telegram/compare/v1.0.13...v1.0.14)
+
 ### v1.0.13 (2026-10-07)
 
 **Bug fixes:**
