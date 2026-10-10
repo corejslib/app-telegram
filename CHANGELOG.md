@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.15 (2026-10-10)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix plural forms (● [77cb178](https://github.com/corejslib/app-telegram/commit/77cb178); 👬 zdm)
+
+Compare with the previous release: [v1.0.14...v1.0.15](https://github.com/corejslib/app-telegram/compare/v1.0.14...v1.0.15)
+
 ### v1.0.14 (2026-10-09)
 
 **Code refactoring:**
