@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.17 (2026-10-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: pass signal in waitConnect options (● [cd7a443](https://github.com/corejslib/app-telegram/commit/cd7a443); 👬 zdm)
+
+Compare with the previous release: [v1.0.16...v1.0.17](https://github.com/corejslib/app-telegram/compare/v1.0.16...v1.0.17)
+
 ### v1.0.16 (2026-10-16)
 
 **Code refactoring:**
