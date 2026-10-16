@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.16 (2026-10-16)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: correct lifecycle manager naming (● [4dd6326](https://github.com/corejslib/app-telegram/commit/4dd6326); 👬 zdm)
+
+- \[PATCH] refactor: replace activity controller with lifecycle manager (● [dfa8141](https://github.com/corejslib/app-telegram/commit/dfa8141); 👬 zdm)
+
+Compare with the previous release: [v1.0.15...v1.0.16](https://github.com/corejslib/app-telegram/compare/v1.0.15...v1.0.16)
+
 ### v1.0.15 (2026-10-10)
 
 **Bug fixes:**
