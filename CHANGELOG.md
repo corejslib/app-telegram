@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.18 (2026-10-24)
+
+**Bug fixes:**
+
+- \[PATCH] fix: return lifecycle results from start and stop hooks (● [171e71d](https://github.com/corejslib/app-telegram/commit/171e71d); 👬 zdm)
+
+- \[PATCH] fix: use thread lifecycle for Telegram API calls (● [789cb39](https://github.com/corejslib/app-telegram/commit/789cb39); 👬 zdm)
+
+Compare with the previous release: [v1.0.17...v1.0.18](https://github.com/corejslib/app-telegram/compare/v1.0.17...v1.0.18)
+
 ### v1.0.17 (2026-10-16)
 
 **Bug fixes:**
