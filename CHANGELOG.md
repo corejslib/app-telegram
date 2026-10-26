@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.19 (2026-10-26)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: track API calls as requests (● [f03fca0](https://github.com/corejslib/app-telegram/commit/f03fca0); 👬 zdm)
+
+Compare with the previous release: [v1.0.18...v1.0.19](https://github.com/corejslib/app-telegram/compare/v1.0.18...v1.0.19)
+
 ### v1.0.18 (2026-10-24)
 
 **Bug fixes:**
