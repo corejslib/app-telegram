@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.20 (2026-10-27)
+
+**Bug fixes:**
+
+- \[PATCH] fix: pass abort signal in mutex lock options (● [c57c5dc](https://github.com/corejslib/app-telegram/commit/c57c5dc); 👬 zdm)
+
+Compare with the previous release: [v1.0.19...v1.0.20](https://github.com/corejslib/app-telegram/compare/v1.0.19...v1.0.20)
+
 ### v1.0.19 (2026-10-26)
 
 **Code refactoring:**
