@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.21 (2026-10-29)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use iterator helpers for registered components (● [dcc827f](https://github.com/corejslib/app-telegram/commit/dcc827f); 👬 zdm)
+
+Compare with the previous release: [v1.0.20...v1.0.21](https://github.com/corejslib/app-telegram/compare/v1.0.20...v1.0.21)
+
 ### v1.0.20 (2026-10-27)
 
 **Bug fixes:**
