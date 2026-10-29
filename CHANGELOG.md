@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.22 (2026-10-29)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use base64url buffer APIs for callback data (● [6d4d1ac](https://github.com/corejslib/app-telegram/commit/6d4d1ac); 👬 zdm)
+
+Compare with the previous release: [v1.0.21...v1.0.22](https://github.com/corejslib/app-telegram/compare/v1.0.21...v1.0.22)
+
 ### v1.0.21 (2026-10-29)
 
 **Code refactoring:**
