@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.23 (2026-10-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: mark update-returning query as writable (● [d710792](https://github.com/corejslib/app-telegram/commit/d710792); 👬 zdm)
+
+Compare with the previous release: [v1.0.22...v1.0.23](https://github.com/corejslib/app-telegram/compare/v1.0.22...v1.0.23)
+
 ### v1.0.22 (2026-10-29)
 
 **Bug fixes:**
