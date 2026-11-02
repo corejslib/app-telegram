@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.24 (2026-11-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix Buffer.fromBase64 (● [33ab8d3](https://github.com/corejslib/app-telegram/commit/33ab8d3); 👬 zdm)
+
+Compare with the previous release: [v1.0.23...v1.0.24](https://github.com/corejslib/app-telegram/compare/v1.0.23...v1.0.24)
+
 ### v1.0.23 (2026-10-30)
 
 **Bug fixes:**
