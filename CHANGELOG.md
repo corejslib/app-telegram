@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.25 (2026-11-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: decode callback data with Buffer.from (● [92e3f6a](https://github.com/corejslib/app-telegram/commit/92e3f6a); 👬 zdm)
+
+Compare with the previous release: [v1.0.24...v1.0.25](https://github.com/corejslib/app-telegram/compare/v1.0.24...v1.0.25)
+
 ### v1.0.24 (2026-11-02)
 
 **Bug fixes:**
