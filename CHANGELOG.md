@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.26 (2026-11-03)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use Temporal instants for timestamps (● [e3ce9e3](https://github.com/corejslib/app-telegram/commit/e3ce9e3); 👬 zdm)
+
+Compare with the previous release: [v1.0.25...v1.0.26](https://github.com/corejslib/app-telegram/compare/v1.0.25...v1.0.26)
+
 ### v1.0.25 (2026-11-02)
 
 **Bug fixes:**
