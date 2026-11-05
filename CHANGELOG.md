@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.0 (2026-11-05)
+
+**New features:**
+
+- \[MINOR] feat: return message dates as Temporal instants (● [fb9a892](https://github.com/corejslib/app-telegram/commit/fb9a892); 👬 zdm)
+
+Compare with the previous release: [v1.0.26...v1.1.0](https://github.com/corejslib/app-telegram/compare/v1.0.26...v1.1.0)
+
 ### v1.0.26 (2026-11-03)
 
 **Code refactoring:**
