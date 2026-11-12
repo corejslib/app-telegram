@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.1 (2026-11-12)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename softvisio_types extension to softvisio (● [6ebbaf5](https://github.com/corejslib/app-telegram/commit/6ebbaf5); 👬 zdm)
+
+Compare with the previous release: [v1.1.0...v1.1.1](https://github.com/corejslib/app-telegram/compare/v1.1.0...v1.1.1)
+
 ### v1.1.0 (2026-11-05)
 
 **New features:**
