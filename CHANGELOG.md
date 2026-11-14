@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.2 (2026-11-14)
+
+**Bug fixes:**
+
+- \[PATCH] fix: validate telegram paths as directories (● [4f774a7](https://github.com/corejslib/app-telegram/commit/4f774a7); 👬 zdm)
+
+Compare with the previous release: [v1.1.1...v1.1.2](https://github.com/corejslib/app-telegram/compare/v1.1.1...v1.1.2)
+
 ### v1.1.1 (2026-11-12)
 
 **Code refactoring:**
