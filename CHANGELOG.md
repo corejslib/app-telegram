@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.3 (2026-11-21)
+
+**Other changes**:
+
+- chore: remove unused app configuration keys (● [177ba9b](https://github.com/corejslib/app-telegram/commit/177ba9b); 👬 zdm)
+
+Compare with the previous release: [v1.1.2...v1.1.3](https://github.com/corejslib/app-telegram/compare/v1.1.2...v1.1.3)
+
 ### v1.1.2 (2026-11-14)
 
 **Bug fixes:**
